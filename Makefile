@@ -13,6 +13,7 @@ create_work2:
 	cp -r ../work/data/WPP2019_POP_F15_1_ANNUAL_POPULATION_BY_AGE_BOTH_SEXES work2/data/
 
 push:
+	git checkout docker || git checkout -b docker
 	git add *
 	git commit -m "docker build"
 	git push origin docker
