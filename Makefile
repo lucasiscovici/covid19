@@ -1,6 +1,6 @@
-docker: create_work2 
+docker: create_work 
 
-create_work2:
+create_work:
 	rm -rf work2
 	mkdir work2
 	cp ../work/Covid_19.ipynb work2/
