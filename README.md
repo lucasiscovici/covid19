@@ -7,7 +7,7 @@ git clone https://github.com/lucasiscovici/covid19.git work
 1re option  
 lancer le docker
 ```bash
-docker run -d --rm --name covid -p 8888:8888 -v $PWD/work:/home/mlds/work luluisco/covid19 mlds.sh
+docker run -d --rm --name covid -p 8888:8888 -v $PWD/work:/home/mlds/work luluisco/covid mlds.sh
 ```
 ouvrir votre navigateur sur localhost:8888, mdp: mlds
 
