@@ -40,4 +40,3 @@ install-jupyter-extensions:
 trust:
 	jupyter trust Covid_19.ipynb
 	
-
