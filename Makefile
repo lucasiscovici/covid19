@@ -1,4 +1,4 @@
-install: install-python-packages install-jupyter-extensions
+install: install-python-packages install-jupyter-extensions trust
 
 install-python-packages:
 	pip install -r requirements.txt
@@ -36,5 +36,8 @@ install-jupyter-extensions:
 	git clone https://github.com/lucasiscovici/notes tmpfiles/notes
 	jupyter-nbextension install tmpfiles/notes
 	jupyter nbextension enable notes/main
+
+trust:
+	jupyter trust Covid_19.ipynb
 	
 
