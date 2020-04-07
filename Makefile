@@ -1,3 +1,5 @@
+.PHONY: html
+
 install: install-python-packages install-jupyter-extensions trust
 
 install-python-packages:
@@ -39,4 +41,6 @@ install-jupyter-extensions:
 
 trust:
 	jupyter trust Covid_19.ipynb
-	
+
+html:
+	curl http://localhost:8888/notebooks/Covid_19.ipynb/export/htmlx > html/Covid_19.html	
