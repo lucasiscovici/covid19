@@ -22,7 +22,8 @@ et ensuite relancer jupyter
 
 
 Vous pouvez sinon voir le notebook en HTML:  
-[Covid_19.html](https://raw.githack.com/lucasiscovici/covid19/master/html/Covid_19.html)    
+[Covid_19.html](https://raw.githack.com/lucasiscovici/covid19/master/html/Covid_19.html)  
+[Covid_19_Intro.html](https://raw.githack.com/lucasiscovici/covid19/master/html/Covid_19_Intro.html)  
 
 notebook avec l'extension hide_code:
 - afficher le code: maj+c  (command mode)  
