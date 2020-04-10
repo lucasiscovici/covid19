@@ -6,6 +6,8 @@ create_work:
 	cp ../work/Covid_19.ipynb work2/
 	cp ../work/Covid_19_Intro.ipynb work2/
 	cp -r ../work/__studyFiles work2/
+	cp ../work/README.md work2/
+	cp ../work/requirements.txt work2/
 	cp -r ../work/lib work2/
 	rm -rf work2/__studyFiles/study_study_project_EXP/covid_nlp.study_study_project.EXP.bz2
 	cp -r ../work/images work2/
