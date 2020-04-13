@@ -1,5 +1,5 @@
 # Specify filepatterns you want git to ignore.
-
+data/google.json
 data/cord
 covidD/node_modules
 covidD/docs
