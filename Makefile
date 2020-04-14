@@ -49,5 +49,5 @@ trust:
 	jupyter trust Covid_19.ipynb
 
 html:
-	curl http://localhost:8888/notebooks/Covid_19.ipynb/export/htmlx > html/Covid_19.html
-	curl http://localhost:8888/notebooks/Covid_19_Intro.ipynb/export/htmlx > html/Covid_19_Intro.html
+	@echo "\033[94mGenerate HTML FROM Ipython notebooks\033[0m"
+	@python3 script/html.py
