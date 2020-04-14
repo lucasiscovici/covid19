@@ -3,8 +3,7 @@ docker: create_work
 create_work:
 	rm -rf work2
 	mkdir work2
-	cp ../work/Covid_19.ipynb work2/
-	cp ../work/Covid_19_Intro.ipynb work2/
+	cp ../work/Covid_19*.ipynb work2/
 	cp -r ../work/__studyFiles work2/
 	cp ../work/README.md ./
 	cp ../work/requirements.txt ./
