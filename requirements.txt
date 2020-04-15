@@ -21,11 +21,14 @@ conda==4.8.2
 cssselect==1.1.0
 conda-package-handling==1.6.0
 confuse==1.0.0
+country-converter==0.6.7
 cryptography==2.8
 cycler==0.10.0
 Cython==0.29.15
 cytoolz==0.10.1
 dask==2.11.0
+pandarallel==1.4.8
+mlxtend==0.17.2
 dateparser==0.7.4
 decorator==4.4.2
 defusedxml==0.6.0
@@ -78,6 +81,7 @@ Mako==1.1.0
 MarkupSafe==1.1.1
 matplotlib==3.2.0
 mccabe==0.6.1
+metakernel==0.24.4
 missingno==0.4.2
 mistune==0.8.4
 moment==0.8.2
@@ -100,6 +104,9 @@ pandocfilters==1.4.2
 paramz==0.9.5
 parso==0.6.2
 partd==1.1.0
+oct2py==5.0.4
+octave-kernel==0.31.1
+ppca==0.0.4
 patsy==0.5.1
 pdfkit==0.6.1
 pexpect==4.8.0
