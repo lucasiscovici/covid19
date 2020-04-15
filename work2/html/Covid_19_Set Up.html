@@ -13334,7 +13334,7 @@ $( document ).ready(function(){
 </div>
 </div>
 
-</div><div class="cell border-box-sizing text_cell rendered collapsible_headings_collapsed"><div class="prompt input_prompt">
+</div><div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
@@ -14796,7 +14796,7 @@ $( document ).ready(function(){
 <span class="n">makeTabsEdaOrAlone_</span><span class="o">=</span><span class="n">addToPipe</span><span class="p">(</span><span class="n">makeTabsEdaOrAlone</span><span class="p">)</span>
 
 <span class="k">def</span> <span class="nf">countryProvinceToCountryAndCols</span><span class="p">(</span><span class="n">df</span><span class="p">,</span><span class="n">cols</span><span class="o">=</span><span class="p">[</span><span class="s2">"Deaths"</span><span class="p">,</span><span class="s2">"Confirmed"</span><span class="p">],</span> <span class="n">countryCol</span><span class="o">=</span><span class="s2">"Country_Region"</span><span class="p">,</span><span class="n">colDate</span><span class="o">=</span><span class="s2">"Date"</span><span class="p">):</span>
-    <span class="k">return</span> <span class="n">df</span><span class="o">.</span><span class="n">groupby</span><span class="p">([</span><span class="n">countryCol</span><span class="p">,</span><span class="n">colDate</span><span class="p">])</span><span class="o">.</span><span class="n">sum</span><span class="p">()</span><span class="o">.</span><span class="n">loc</span><span class="p">[:,</span><span class="n">cols</span><span class="p">]</span><span class="o">.</span><span class="n">reset_index</span><span class="p">()</span> <span class="c1">#.sum2(skipna=False)</span>
+    <span class="k">return</span> <span class="n">df</span><span class="o">.</span><span class="n">groupby</span><span class="p">([</span><span class="n">countryCol</span><span class="p">,</span><span class="n">colDate</span><span class="p">])</span><span class="o">.</span><span class="n">sum</span><span class="p">()</span><span class="o">.</span><span class="n">loc</span><span class="p">[:,</span><span class="n">cols</span><span class="p">]</span><span class="o">.</span><span class="n">reset_index</span><span class="p">()</span> 
 <span class="n">countryProvinceToCountryAndCols_</span><span class="o">=</span><span class="n">addToPipe</span><span class="p">(</span><span class="n">countryProvinceToCountryAndCols</span><span class="p">)</span>
 
 <span class="k">def</span> <span class="nf">covidDataPreEda</span><span class="p">(</span><span class="n">df</span><span class="p">,</span>
