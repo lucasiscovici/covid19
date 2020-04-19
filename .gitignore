@@ -1,8 +1,10 @@
 # Specify filepatterns you want git to ignore.
+ml/*
+cvopt/*
 data/google.json
 data/cord
 covidD/node_modules
 covidD/docs
 __studyFiles/study_study_project_EXP/covid_nlp.study_study_project.EXP.bz2
-*.DS_Store
+*.DS_Store*
 *.pyc
