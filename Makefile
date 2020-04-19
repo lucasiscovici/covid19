@@ -6,7 +6,7 @@ create_work:
 	cp ../work/Covid_19*.ipynb work2/
 	cp -r ../work/html work2/
 	cp -r ../work/script work2/
-	cp -r ../work/__studyFiles work2/
+	cp -r ../work/__studyFiles/*covid* work2/
 	cp ../work/README.md ./
 	cp ../work/requirements.txt ./
 	cp -r ../work/lib work2/
