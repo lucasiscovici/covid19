@@ -1,0 +1,182 @@
+Country,Year,Hospital beds (per 10 000 population),HospitalBedsPer100000
+Afghanistan,2015,5,50
+Albania,2013,29,290
+Algeria,2015,19,190
+Angola,2005,8,80
+Antigua and Barbuda,2014,38,380
+Argentina,2014,50,500
+Armenia,2015,42,420
+Australia,2014,38,380
+Austria,2013,76,760
+Azerbaijan,2013,47,470
+Bahamas,2013,29,290
+Bahrain,2014,20,200
+Bangladesh,2015,8,80
+Barbados,2014,58,580
+Belarus,2013,110,1100
+Belgium,2014,62,620
+Belize,2014,13,130
+Benin,2010,5,50
+Bhutan,2012,17,170
+Bolivia (Plurinational State of),2014,11,110
+Bosnia and Herzegovina,2013,35,350
+Botswana,2010,18,180
+Brazil,2014,22,220
+Brunei Darussalam,2015,27,270
+Bulgaria,2013,68,680
+Burkina Faso,2010,4,40
+Burundi,2014,8,80
+Cabo Verde,2010,21,210
+Cambodia,2015,8,80
+Cameroon,2010,13,130
+Canada,2012,27,270
+Central African Republic,2011,10,100
+Chad,2005,4,40
+Chile,2013,22,220
+China,2012,42,420
+Colombia,2014,15,150
+Comoros,2010,22,220
+Congo,2005,16,160
+Cook Islands,2005,63,630
+Costa Rica,2015,12,120
+Croatia,2015,56,560
+Cuba,2014,52,520
+Cyprus,2013,34,340
+Czechia,2015,65,650
+Côte d'Ivoire,2006,4,40
+Democratic People's Republic of Korea,2010,143,1430
+Democratic Republic of the Congo,2006,8,80
+Denmark,2015,25,250
+Djibouti,2014,14,140
+Dominican Republic,2014,16,160
+Ecuador,2013,15,150
+Egypt,2014,16,160
+El Salvador,2014,13,130
+Equatorial Guinea,2010,21,210
+Eritrea,2011,7,70
+Estonia,2015,50,500
+Eswatini,2011,21,210
+Ethiopia,2015,3,30
+Fiji,2011,23,230
+Finland,2015,44,440
+France,2013,65,650
+Gabon,2008,13,130
+Gambia,2011,11,110
+Georgia,2013,26,260
+Germany,2013,83,830
+Ghana,2011,9,90
+Greece,2015,43,430
+Grenada,2014,37,370
+Guatemala,2014,6,60
+Guinea,2011,3,30
+Guinea-Bissau,2009,10,100
+Guyana,2014,16,160
+Haiti,2013,7,70
+Honduras,2014,7,70
+Hungary,2013,70,700
+Iceland,2014,32,320
+India,2011,7,70
+Indonesia,2015,12,120
+Iran (Islamic Republic of),2014,15,150
+Iraq,2014,14,140
+Ireland,2013,28,280
+Israel,2013,31,310
+Italy,2012,34,340
+Jamaica,2013,17,170
+Japan,2012,134,1340
+Jordan,2015,14,140
+Kazakhstan,2013,67,670
+Kenya,2010,14,140
+Kiribati,2015,19,190
+Kuwait,2014,20,200
+Kyrgyzstan,2013,45,450
+Lao People's Democratic Republic,2012,15,150
+Latvia,2013,58,580
+Lebanon,2014,29,290
+Lesotho,2006,13,130
+Liberia,2010,8,80
+Libya,2014,37,370
+Lithuania,2013,73,730
+Luxembourg,2015,48,480
+Madagascar,2010,2,20
+Malawi,2011,13,130
+Malaysia,2015,19,190
+Maldives,2009,43,430
+Mali,2010,1,10
+Malta,2014,47,470
+Mauritania,2006,4,40
+Mauritius,2011,34,340
+Mexico,2015,15,150
+Mongolia,2012,70,700
+Montenegro,2012,40,400
+Morocco,2014,11,110
+Mozambique,2011,7,70
+Myanmar,2012,9,90
+Namibia,2009,27,270
+Nauru,2010,50,500
+Nepal,2012,3,30
+Netherlands,2009,47,470
+New Zealand,2013,28,280
+Nicaragua,2014,9,90
+Niger,2015,3,30
+Nigeria,2004,5,50
+Niue,2006,52,520
+Norway,2013,39,390
+Oman,2014,16,160
+Pakistan,2014,6,60
+Panama,2013,23,230
+Paraguay,2011,13,130
+Peru,2014,16,160
+Philippines,2010,5,50
+Poland,2013,65,650
+Portugal,2013,34,340
+Qatar,2014,12,120
+Republic of Korea,2015,115,1150
+Republic of Moldova,2013,58,580
+Republic of North Macedonia,2013,44,440
+Romania,2013,63,630
+Russian Federation,2013,82,820
+Rwanda,2006,16,160
+Saint Lucia,2013,13,130
+Saint Vincent and the Grenadines,2014,26,260
+Sao Tome and Principe,2011,29,290
+Saudi Arabia,2014,27,270
+Senegal,2008,3,30
+Serbia,2012,57,570
+Seychelles,2011,36,360
+Sierra Leone,2006,4,40
+Singapore,2015,24,240
+Slovakia,2015,58,580
+Slovenia,2013,46,460
+Solomon Islands,2012,14,140
+Somalia,2014,9,90
+South Africa,2005,28,280
+Spain,2013,30,300
+Sri Lanka,2010,35,350
+Sudan,2013,8,80
+Suriname,2010,31,310
+Sweden,2013,26,260
+Switzerland,2013,47,470
+Syrian Arab Republic,2014,15,150
+Tajikistan,2013,48,480
+Thailand,2005,21,210
+Timor-Leste,2009,59,590
+Togo,2011,7,70
+Trinidad and Tobago,2014,30,300
+Tunisia,2015,23,230
+Turkey,2013,27,270
+Turkmenistan,2013,74,740
+Tuvalu,2001,56,560
+Uganda,2010,5,50
+Ukraine,2013,88,880
+United Arab Emirates,2013,12,120
+United Kingdom of Great Britain and Northern Ireland,2013,28,280
+United Republic of Tanzania,2010,7,70
+United States of America,2013,29,290
+Uruguay,2014,28,280
+Uzbekistan,2013,40,400
+Venezuela (Bolivarian Republic of),2014,8,80
+Viet Nam,2014,26,260
+Yemen,2014,7,70
+Zambia,2010,20,200
+Zimbabwe,2011,17,170

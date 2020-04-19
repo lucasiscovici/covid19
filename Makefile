@@ -6,11 +6,13 @@ create_work:
 	cp ../work/Covid_19*.ipynb work2/
 	cp -r ../work/html work2/
 	cp -r ../work/script work2/
-	cp -r ../work/__studyFiles/*covid* work2/
+	#work2/__studyFiles/study_study_project_EXP
+	mkdir -p work2/__studyFiles/study_study_project_EXP
+	cp ../work/__studyFiles/study_study_project_EXP/covid.study_study_project.EXP.bz2 work2/__studyFiles/study_study_project_EXP/
 	cp ../work/README.md ./
 	cp ../work/requirements.txt ./
 	cp -r ../work/lib work2/
-	rm -rf work2/__studyFiles/study_study_project_EXP/covid_nlp.study_study_project.EXP.bz2
+	#rm -rf work2/__studyFiles/study_study_project_EXP/covid_nlp.study_study_project.EXP.bz2
 	cp -r ../work/images work2/
 	mkdir work2/data
 	cp ../work/data/*.csv work2/data/
